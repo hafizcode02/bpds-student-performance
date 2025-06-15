@@ -6,8 +6,8 @@ import numpy as np
 # Load data and model
 st.set_page_config(page_title="Deteksi Dropout Siswa", page_icon="🎓", layout="wide")
 
-df = pd.read_csv("./cleaned.csv")
-model = joblib.load("./model/student_dropout_model.joblib")
+df = pd.read_csv("cleaned.csv")
+model = joblib.load("model/student_dropout_model.joblib")
 
 # Sidebar for branding and info
 with st.sidebar:

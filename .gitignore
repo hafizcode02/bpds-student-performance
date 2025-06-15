@@ -1,8 +1,7 @@
 venv/
-streamlit/venv/
-streamlit/__pycache__/
-streamlit/*.pyc
-streamlit/*.pyo
-streamlit/*.pyd
-streamlit/*.pyw
-streamlit/*.pyz
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
