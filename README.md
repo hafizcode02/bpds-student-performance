@@ -34,6 +34,10 @@ menjalankan model menggunakan streamlit :
 streamlit run app.py
 ```
 
+## Credentials Metabase:
+- Email: dev@hafizcaniago.my.id
+- Password: root123
+
 ## Business Dashboard
 ![Dashboard Image](https://raw.githubusercontent.com/hafizcode02/bpds-student-performance/refs/heads/main/hafizcaniago-dashboard.png)
 
@@ -51,7 +55,7 @@ Dashboard yang dibuat merupakan salah satu solusi untuk mengatasi tingginya juml
 streamlit run app.py
 ```
 *jika ingin menjalankan langsung dengan mengunjungi website*
-1. Untuk menjalankan sistem, silahkan kunjungi : [Link Streamlit Online](https://google.com)
+1. Untuk menjalankan sistem, silahkan kunjungi : [Link Streamlit Online](https://dropout-submission.hafigo.web.id/)
 2. maka akan tampil sperti gambar diatas, lalu silahkan sesuaikan inputan dengan siswa yang ingin diprediksi statusnya apakah termasuk dropout atau tidak
 3. selanjutnya tekan prediksi maka akan tampil hasil prediksi beserta probabilitasnya dalam bentuk tabel.
 
