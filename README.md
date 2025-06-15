@@ -19,7 +19,6 @@ Sumber data: [students_performance](https://github.com/dicodingacademy/dicoding_
 
 Setup environment:
 ```
-cd streamlit
 python -m venv venv
 venv\Scripts\activate
 ```
@@ -55,7 +54,7 @@ Dashboard yang dibuat merupakan salah satu solusi untuk mengatasi tingginya juml
 streamlit run app.py
 ```
 *jika ingin menjalankan langsung dengan mengunjungi website*
-1. Untuk menjalankan sistem, silahkan kunjungi : [Link Streamlit on VPS](https://dropout-submission.hafigo.web.id/) | [Link Streamlit Community](https://hafigo-student-dropout.streamlit.app/)
+1. Untuk menjalankan sistem, silahkan kunjungi : [Link Streamlit on VPS](https://dropout-submission.hafigo.web.id/) | [Link Streamlit Community](https://bpds-dropout.streamlit.app/)
 2. maka akan tampil sperti gambar diatas, lalu silahkan sesuaikan inputan dengan siswa yang ingin diprediksi statusnya apakah termasuk dropout atau tidak
 3. selanjutnya tekan prediksi maka akan tampil hasil prediksi beserta probabilitasnya dalam bentuk tabel.
 
