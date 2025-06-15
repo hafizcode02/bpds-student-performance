@@ -34,6 +34,10 @@ menjalankan model menggunakan streamlit :
 streamlit run app.py
 ```
 
+## Credentials Metabase:
+- Email: dev@hafizcaniago.my.id
+- Password: root123
+
 ## Business Dashboard
 ![Dashboard Image](https://raw.githubusercontent.com/hafizcode02/bpds-student-performance/refs/heads/main/hafizcaniago-dashboard.png)
 
