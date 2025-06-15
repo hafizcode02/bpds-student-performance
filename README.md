@@ -55,7 +55,7 @@ Dashboard yang dibuat merupakan salah satu solusi untuk mengatasi tingginya juml
 streamlit run app.py
 ```
 *jika ingin menjalankan langsung dengan mengunjungi website*
-1. Untuk menjalankan sistem, silahkan kunjungi : [Link Streamlit Online](https://dropout-submission.hafigo.web.id/)
+1. Untuk menjalankan sistem, silahkan kunjungi : [Link Streamlit on VPS](https://dropout-submission.hafigo.web.id/) | [Link Streamlit Community](https://hafigo-student-dropout.streamlit.app/)
 2. maka akan tampil sperti gambar diatas, lalu silahkan sesuaikan inputan dengan siswa yang ingin diprediksi statusnya apakah termasuk dropout atau tidak
 3. selanjutnya tekan prediksi maka akan tampil hasil prediksi beserta probabilitasnya dalam bentuk tabel.
 
