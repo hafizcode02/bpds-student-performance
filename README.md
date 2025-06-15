@@ -60,7 +60,7 @@ streamlit run app.py
 
 ## Conclusion
 - Berdasarkan hasil analisis yang dilakukan dan dituangkan pada notebook, terdapat beberapa faktor yang paling mempengaruhi tingkat dropout siswa diantaranya adalah nilai akhir semester siswa, dimana siswa yang memiliki nilai yang rendah cenderung di-dropout
-- Selanjutnya yang mempengaruhi dropout adalah biaya pendidikan sesuai dengan yang terbaru, ini cukup mempngaruhi karena jika tidak sesuai maka potensi dropout lebih tinggi jika biaya sesuai dengan biaya terbaru.
+- Selanjutnya yang mempengaruhi siswa dropout adalah biaya pendidikan sesuai dengan yang terbaru, ini cukup mempngaruhi karena jika tidak sesuai maka potensi dropout lebih tinggi jika biaya sesuai dengan biaya terbaru.
 - Penerima beasiswa sangat mempengaruhi motivasi pelajar untuk menyelesaikan pendidikannya, tidak heran jika orang yang mendapatkan beasiswa akan berusaha sedini mungkin untuk terhindar dari dropout.
 
 ### Rekomendasi Action Items
@@ -69,7 +69,7 @@ streamlit run app.py
 - **Pendampingan Proses Belajar**: Menyediakan program bimbingan belajar tambahan untuk siswa yang memiliki nilai rendah dan berisiko mengalami kesulitan akademik dan butuh perhatian khusus.
 - **Pemberian Feedback yang Cepat**: Memberikan umpan balik langsung kepada siswa terkait performa mereka agar dapat memperbaiki nilai nya sebelum terlambat.
 
-2. Peningkatan Akses Beasiswa
+2. Peningkatan Akses ke Banyak Beasiswa Baru
 - **Program Beasiswa Baru**: Menyediakan lebih banyak peluang beasiswa, terutama untuk siswa dari latar belakang ekonomi yang kurang mampu.
 
 3. Penyesuaian Biaya Pendidikan
